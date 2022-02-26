@@ -1,4 +1,4 @@
-const words = ["enhances", "upscales", "cleans", "boosts", "supplements"];
+const words = ["enhances", "upscales", "cleans", "boosts", "denoise"];
 let i = 0;
 
 const _changeText = () => {
