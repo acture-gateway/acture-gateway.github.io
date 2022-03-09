@@ -482,7 +482,16 @@ vertical-align: middle;
 }
 .anime{
 width: 1300 px;
-}​
+}
+.animechild p{
+  text-align: left;
+  font-size:18px;
+  color: #a1a3a5;
+}
+.animechild{
+
+}
+}
 .slider input::-webkit-slider-thumb{
   height: 586px;
   width: 3px;
