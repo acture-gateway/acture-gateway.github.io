@@ -1,4 +1,4 @@
-const words = ["enhances", "upscales", "cleans", "boosts", "denoises"];
+const words = ["enhances", "upscales", "cleans", "boosts", "denoises", "improves"];
 let i = 0;
 
 const _changeText = () => {
@@ -6,4 +6,4 @@ const _changeText = () => {
   document.getElementById("spin").innerHTML = `${words[i]}&nbsp;`;
 };
 
-setInterval("_changeText()", 800);
+setInterval("_changeText()", 1200);
