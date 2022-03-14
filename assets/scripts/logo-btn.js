@@ -1,7 +1,7 @@
 function hover(element) {
-  element.setAttribute("src", "assets/images/nocolor.png");
+  element.setAttribute("src", "assets/images/nocolor.PNG");
 }
 
 function unhover(element) {
-  element.setAttribute("src", "assets/images/color.png");
+  element.setAttribute("src", "assets/images/color.PNG");
 }
